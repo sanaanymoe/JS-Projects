@@ -16,5 +16,4 @@ window.addEventListener('keydown', (e) => {
         key.classList.remove('playing')
     },100)
     
-
 })
